@@ -1,0 +1,2 @@
+# bharatintern_task2
+TITANIC SURVIVOR CLASSIFICATION
